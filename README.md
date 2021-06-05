@@ -2,6 +2,9 @@
 
 ### What I learned:
 
+- Installing and Downloading a software called "Postman"
+- Using Postman to respond to fastify servers
+
 ### Purpose of Lab:
 
 ### Outcome pics: 
